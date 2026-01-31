@@ -1,0 +1,24 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Rappa-logo {
+  width: 40px;
+}
+
+h1,
+h2 {
+  margin-bottom: 20px;
+}
+
+footer i {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* Media Query personalizada */
+@media (max-width: 768px) {
+  h1 {
+    text-align: center;
+  }
+}
